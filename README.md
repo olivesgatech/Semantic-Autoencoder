@@ -20,14 +20,14 @@ We demonstrate the advantage of learning semantic filters and categorizing them 
 General framework of the semantic autoencoder
 </p> 
 
-## Usage & Output Example
-Run main.m and below is an example of output:
-```
-DELETE OR FILL IN WIHT SOME OUTPUT EXAMPLES
-```
+## Usage 
+Code for both Image Quality Assessment and Traffic Sign Recognition are provided in separate folders.    
+For each application, run the demo.m file. Sample original and distorted images (for IQA) and sample Traffic Sign images are provided.  
+For IQA : The code outputs the quality of the distorted image which lies between 0 and 1 (1 being the best quality).  
+For Traffic Sign Recognition : The code recognizes the traffic sign according to the label convention in this [paper](https://arxiv.org/abs/1712.02463)  
 
 ## Citation
-If you find our paper and repository useful, please consider citing our paper:
+If you find our paper and repository useful, please consider citing our paper:  
 
 ```
 @inproceedings{prabhushankar2018semantically,
@@ -39,4 +39,6 @@ If you find our paper and repository useful, please consider citing our paper:
   year={2018},
   organization={IEEE}
 }
+
+IEEE Link : https://ieeexplore.ieee.org/document/8451220  
 ```
