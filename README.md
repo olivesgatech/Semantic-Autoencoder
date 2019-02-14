@@ -28,7 +28,7 @@ For Traffic Sign Recognition : The code recognizes the traffic sign according to
 
 ## Citation
 If you find our paper and repository useful, please consider citing our paper:  
-
+IEEE Link : https://ieeexplore.ieee.org/document/8451220  
 ```
 @inproceedings{prabhushankar2018semantically,
   title={Semantically Interpretable and Controllable Filter Sets},
@@ -40,5 +40,4 @@ If you find our paper and repository useful, please consider citing our paper:
   organization={IEEE}
 }
 
-IEEE Link : https://ieeexplore.ieee.org/document/8451220  
 ```
